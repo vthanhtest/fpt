@@ -1,0 +1,23 @@
+{
+  "set_attributes": {
+    "voucher_code": "rpy3AdmumJGQSC6K"
+  },
+  "messages": [
+    {
+      "type": "text",
+      "content": {
+        "text": "Your voucher code is: rpy3AdmumJGQSC6K",
+        "buttons": [
+          {
+            "title": "Detail",
+            "payload": "<Step name>#base64(payload_data)"
+          },
+          {
+            "title": "More info",
+            "url": "https://sample-url.com.vn/info"
+          }
+        ]
+      }
+    }
+  ]
+}
